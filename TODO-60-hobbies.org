@@ -1,0 +1,15 @@
+#+TITLE:     YpnoBoost
+#+AUTHOR:    Fabrice Niessen
+#+EMAIL:     (concat "fniessen" at-sign "pirilampo.org")
+#+DESCRIPTION:
+#+KEYWORDS:
+#+LANGUAGE:  en
+
+#+FILETAGS:  :personal:
+#+SETUPFILE: ~/org/theme-readtheorg.setup
+
+* Inbox
+
+** TODO [#A] Détecter les micro-expressions
+
+https://microexpressionstrainingvideos.com/micro-expressions-training-pricing/
