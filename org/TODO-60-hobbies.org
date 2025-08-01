@@ -1,4 +1,4 @@
-#+TITLE:     YpnoBoost
+#+TITLE:     Hobbies
 #+AUTHOR:    Fabrice Niessen
 #+EMAIL:     (concat "fniessen" at-sign "pirilampo.org")
 #+DESCRIPTION:
@@ -13,3 +13,431 @@
 ** TODO [#A] Détecter les micro-expressions
 
 https://microexpressionstrainingvideos.com/micro-expressions-training-pricing/
+
+* MemoryBoost
+
+https://asmemoire.fr/wp-content/uploads/2020/12/table-de-rappel-1.jpg?w=768
+
+https://i.pinimg.com/originals/07/19/64/0719644704858c260cd729deffa6af66.png
+
+https://fr.wikiversity.org/wiki/Utilisateur:RP87/Mn%C3%A9monique
+
+** TODO Lire le livre sur la mémoire de Kevin Trudeau
+
+** 153.1- Memory improvement
+
+*** Learn to remember (memory)
+
+[[https://www.youtube.com/watch?v=yTQhfSr8b0U][C'est pas sorcier - Peut-on améliorer sa mémoire ? (2012)]]
+
+- [[https://www.youtube.com/watch?v=tCHTMUleciU][Exploits de mémoire que tout le monde peut faire. - Conférence TED de Joshua Foer]]
+  Hooks (Baker/baker paradox), memory palace, spatial, topic by topic.
+- [[https://www.youtube.com/watch?v=zlSj1n9swso][Technique de mémorisation pour mémoriser ses cours]] (techniques de conversion
+  d'informations en images !)
+  Phenomenal memory course + Dominic O'Brien
+
+- http://fr.wikipedia.org/wiki/Mn%C3%A9motechnique
+- http://www.memory-improvement-tips.com/remembering-numbers.html
+- http://www.memoirefacile.com/chiffres-systemes-comment-devenir-un-champion-de-la-memoire-part-3/
+- http://www.memoirefacile.com/methode-de-larmoire-mnemonique/
+
+**** Ron White (champion des USA en 2009 et 2010)
+
+Technique pour retenir 100 prénoms en 15 minutes. Il a une image pour chaque
+nom assez courant, par exemple "Mona Lisa" pour le prénom "Lisa".
+
+Lorsqu'il doit retenir le nom d'une fille qui s'appelle Lisa, il voit qu'elle
+a de beaux yeux qui le frappent. Il retient alors l'image de lui, en train de
+peindre Mona Lisa, dans ses yeux.
+
+Pour retenir 40 prix d'articles quelconques, il utilise les images qu'il a pour
+les nombres. Il a 1000 images. Pour retenir le prix d'une gourde avec un dessin
+de cow-boy à 14,95 EUR, il retient 14 (= canard, chez lui) et 95 (=
+voiture). Donc, il visualise un canard roulant en voiture en train de suivre le
+cow-boy...
+
+Il retient un jeu de 52 cartes en 1 minute 27 secondes. Toutefois, il entraîne
+sa mémoire 8 heures par jour...
+
+**** Sébastien Martinez
+
+"Une mémoire infaillible -- Briller en société sans sortir son smartphone" de
+Sébastien Martinez.
+
+- Connecter l'inconnu au connu, créer des liens, des accroches
+- 2 pistes :
+  + utiliser la logique (interne, propre à soi) et/ou (mieux si c'est les deux)
+  + utiliser l'imagination
+- Quelques méthodes :
+  + Concaténation : "mais où est donc ornicar" (pour les conjonctions de
+    coordination, "HOMES" pour les lacs américains, etc.)
+  + Palais de la mémoire (imaginer des pièces)
+- Réactiver les connaissances après 1 heure, après 1 jour, après 1 semaine, et
+  après 1 mois.
+- Mind maps de Tony Buzan (avec couleurs et dessins imaginés par soi)
+
+**** Mémoire - Grand système - Major system
+
+Image-Generation (How to convert numbers to images?):
+- Association System
+- Dominic System
+- Major System
+
+Image-Placement (Placing the images in the memory palace):
+- 1, 2, or 3 images System
+- Person-Action System
+- Person-Action-Object System (PAO)
+
+https://www.geheugenacademie.be/geheugentechnieken/ (20 methodes)
+https://www.geheugenacademie.be/
+
+https://artofmemory.com/blog/major-system/ (vidéo avec résumé des méthodes)
+
+***** Software
+
+Here are some tools that can help you find images for the Major System:
+
+- CvNumPal+
+- https://pinfruit.com/
+- https://Major-System.info/ (conversions number <--> words)
+- https://memcoder.com/
+
+https://en.wikipedia.org/wiki/Mnemonic_major_system
+https://fr.wikipedia.org/wiki/Code_chiffres-sons
+https://ca.wikipedia.org/wiki/Sistema_Major_de_Mnemotècnia
+https://it.wikipedia.org/wiki/Conversione_fonetica
+
+https://apprendre5minutes.wordpress.com/2016/07/14/pi-memorisation-comment-retenir-les-decimales-de-pi-facilement/#articulations-chiffrees
+
+https://apprendre5minutes.files.wordpress.com/2016/01/table-de-rappel.png
+http://maxime-wacrenier.e-monsite.com/pages/outils-d-apprentissage/cours-pratique-de-memorisation/les-tables-de-rappel.html
+http://villemin.gerard.free.fr/Wwwgvmm/MnemoTe/CodeCh.htm
+https://ceclair.fr/memoriser-les-nombres-efficacement-avec-le-code-chiffres-sons
+
+Images
+https://www.gettyimages.fr/
+
+PAO
+https://www.youtube.com/watch?v=UOZBYrqaOt8
+
+XXX Retenir un jeu de cartes en entier XXX
+https://www.youtube.com/watch?v=PZATH7TVDng
+
+Table de rappel
+37 + 255?
+
+Palais de la mémoire 65
+https://www.youtube.com/watch?v=cMGTLRgQQP0
+
+https://fr.wikibooks.org/wiki/Liste_de_mnémoniques
+
+Trouver une suite de mots mémorables avec l'aide du logiciel 2know :
+http://got2know.net/
+
+***** Mémoriser les noms
+
+5 steps :
+1. Focus
+2. File
+3. Picture
+4. ACTION
+5. Review
+
+https://artofmemory.com/wiki/Memorizing_Names_and_Faces/
+- Karen = carotte
+- Lisa = Mona Lisa
+- Paul = balle (de basket)
+- Michel = missile
+- Bruno = pruneau
+- Clara = clarinette
+- Daphné = dauphin
+- Donna = Donald Duck
+- Evelyne = violon
+- France = tour Eiffel
+- Jeanne = Jeanne d'Arc
+- Monica = harmonica
+- Nicole = nickel
+- Paula = balle avec un 'A'
+- Roberta = robot
+- Bernard = Saint Bernard
+- Christian = Christ
+- Denis = dentiste
+- Dominique = dominos
+- Emmanuel = un manuel
+- George = gorge
+- Jeff = chef
+- Martin = martien
+- Olivier = olive
+- Thomas = thermos
+
+Summary:
+1. Repeat the person's name right after hearing it: "Nice to meet you, John."
+2. Associate the name with someone or something
+3. Use visual actions
+
+**** Les tables de multiplication - Multimalin
+
+** TODO [[https://www.youtube.com/watch?v=NnejnS3AJ4Y][J'AI CREE LE SYSTEME DE MEMORISATION LE PLUS PUISSANT DU MONDE !!!]]
+
+** Table de rappel de 0 à 100
+
+*** TODO Apprendre par cœur la liste des 25 premiers mots MemoryBoost
+
+Voici une table mnémotechnique utilisant le système de Major en français pour
+les nombres de 0 à 100. Chaque *nombre* est associé à un *mot* qui se conforme aux
+règles de conversion phonétique du système de Major.
+
+| Nombre | Ma liste   |                               | jytou   | pinimg  | asmemoire | wikipedia | ChatGPT 2b | ChatGPT 2a | ChatGPT 1     | NL     |
+|--------+------------+-------------------------------+---------+---------+-----------+-----------+------------+------------+---------------+--------|
+|      0 | Seau       | Scie                          |         | Seau    |           |           | S.O.S      | S.O.S      |               |        |
+|      1 | Thé        | Dé                            |         | Toit    | Dé        | Toit      | Thé        | Thé        | Dos           | Thee   |
+|      2 | Noé        | Nain                          | Nez     | Nez     | Nez       | Nid       | Nez        | Nez        | Nez           |        |
+|      3 | Mât de mai | Mât, Homme                    | Mât     | Mât     | Mat       | Mat       | Mie        |            | Mie           | Ham    |
+|      4 | Roi        | Roi, Rat, Roue                | Rat     | Rat     | Rat       | Rat       | Rat        | Rat        | Rat           | Haar   |
+|      5 | Loi        | Loup, Lait                    |         | Lit     | Lit       | Lit       | Lait       | Lait       | Loup          | Uil    |
+|      6 | Chat       | Chat, Chien                   | Chat    | Chat    | Chat      | Chat      | Chou       | Chou       | Chou          |        |
+|      7 | Cou        | Queue, Cou                    |         | Gant    | Quille    | Queue     | Quai       | Quai       | Quai          | Koe    |
+|      8 | Fée        | Feu                           | Feu     | Feu     | Fée       | Enfant    | Feu        | Feu        | Fée           |        |
+|      9 |            | Banc, Pain, Paon, Pied, Puits | Pas     |         |           | Puits     | Pie        |            | Pie           | Bij    |
+|     10 | Tasse      | Tasse                         | Tasse   | Tasse   | Tasse     | Tasse     | Tasse      | Tasse      | Tasse         |        |
+|     11 | Tête       | Date (fruit)                  |         | Tête    | Tutu      | Toutou    | Tête       | Tête       | Tête          |        |
+|     12 | Tonneau    | Dune                          |         | Tonneau | Tonneau   | Tonneau   | Dinde      |            |               | Teen   |
+|     13 | Diamant    | Atome, Tamis                  | Tamis   | Diamant | Tamis     |           | Dame       |            |               | Dam    |
+|     14 | Taureau    |                               | Tare    | Taureau | Taureau   |           |            |            | Terre         | Tor    |
+|     15 | Talon      | Talon                         | Télé    | Tuile   | Télé      |           | Tilleul    | Tilleul    | Talon         | Daal   |
+|     16 | Tache      | Tache                         | Tache   | Donjon  | Tache     |           | Tige       | Tige       | Tache         |        |
+|     17 | Ticket     | Tique                         |         |         | Ticket    |           |            | Ticket     | Tique         | Tak    |
+|     18 | Dauphin    | Dauphin                       |         | Divan   |           |           |            |            |               |        |
+|     19 |            | Toupie, Tapis                 |         | Taupe   | Taupe     |           | Tuba       | Tapis      |               | Tap    |
+|     20 | Nazi       | Nasse                         | Nasse   | Nasse   |           | Naseau    | Nasse      | Nasse      |               |        |
+|     21 | Note       | Natte, Note                   | Natte   | Natte   | Natte     | Natte     | Note       | Note       | Note          |        |
+|     22 | Ananas     | Nonne                         |         | Ananas  | None      |           | Nounou     | Nounou     | Nounou        |        |
+|     23 | Némo       | Nem, Némo                     | Nem     | Nem     | Nem       |           |            |            |               |        |
+|     24 | Nord       | Annuaire, Nord                | Nerf    | Noir    | Nerf      |           | Noir       |            | Noir          |        |
+|     25 | Noël       | Nylon, Nil                    | Nylon   | Nylon   | Nil       |           | Noël       |            |               |        |
+|--------+------------+-------------------------------+---------+---------+-----------+-----------+------------+------------+---------------+--------|
+|     26 |            |                               |         |         |           |           | Niche      | Niche      | Niche         |        |
+|     27 |            |                               |         |         |           |           |            |            |               |        |
+|     28 |            |                               |         |         |           |           |            |            |               |        |
+|     29 |            |                               |         |         |           |           | Nappe      |            | Nappe         |        |
+|     30 |            |                               |         |         |           | Maison    | Mousse     | Massue     | Maïs          |        |
+|     31 |            |                               |         |         |           |           | Mot        |            | Mat           |        |
+|     32 |            | Mona (Lisa)                   |         |         |           |           | Mine       |            |               |        |
+|     33 |            |                               |         |         |           |           | Maman      | Maman      | Maman         |        |
+|     34 |            |                               |         |         |           |           |            | Mare       | Mare          |        |
+|     35 |            |                               | Mâle    |         |           |           | Malle      | Malin      | Mal           |        |
+|     36 |            |                               |         |         |           |           | Mèche      | Magie      | Mèche         |        |
+|     37 |            |                               |         |         |           |           | Mac        |            |               |        |
+|     38 |            |                               |         |         |           |           |            |            | Mafia         |        |
+|     39 |            |                               |         |         |           |           | Mappe      | Mappe      | Mappe         |        |
+|     40 |            |                               |         |         |           |           | Rose       |            | Rose          |        |
+|     41 |            |                               |         |         |           |           | Rate       |            | Rate          |        |
+|     42 |            |                               |         |         |           |           | Renne      |            | Rune          |        |
+|     43 |            |                               |         |         |           |           | Ram        |            | Ram           |        |
+|     44 |            |                               |         |         |           |           | Rire       |            |               |        |
+|     45 |            |                               |         |         |           |           | Roule      |            | Rail          |        |
+|     46 |            |                               |         |         |           |           | Rocher     |            | Roche         |        |
+|     47 |            |                               |         |         |           |           | Roc        |            | Roc           |        |
+|     48 |            |                               |         |         |           |           | Rave       |            | Rave          |        |
+|     49 |            |                               |         |         |           |           | Robe       |            | Rappe         |        |
+|     50 |            |                               |         |         |           |           | Lasso      |            |               |        |
+|--------+------------+-------------------------------+---------+---------+-----------+-----------+------------+------------+---------------+--------|
+|     51 |            |                               |         |         |           |           | Latte      |            |               |        |
+|     52 |            |                               |         |         |           |           | Lune       |            |               |        |
+|     53 |            |                               | Lame    |         |           |           | Lama       |            | Lame          |        |
+|     54 |            |                               |         |         |           |           |            |            | Lierre        |        |
+|     55 |            |                               |         |         |           |           | Loulou     |            |               |        |
+|     56 |            |                               |         |         |           |           | Lèche      |            | Lèche         |        |
+|     57 |            |                               |         |         |           |           | Lac        |            |               |        |
+|     58 |            |                               |         |         |           |           | Lave       |            | Lave          |        |
+|     59 |            |                               |         |         |           |           | Lobe       |            | Lape          |        |
+|     60 |            |                               |         |         |           |           | Chasse     |            | Chasse        |        |
+|     61 |            |                               |         |         |           |           | Chute      |            |               |        |
+|     62 |            |                               |         |         |           |           | Chaine     |            | Chaîne        |        |
+|     63 |            |                               | Chameau |         |           |           | Jumeau     |            | Chameau       |        |
+|     64 |            |                               |         |         |           |           | Chéri      |            | Chair         |        |
+|     65 |            |                               |         |         |           |           |            |            | Chal          |        |
+|     66 |            |                               |         |         |           |           |            |            | Juge          |        |
+|     67 |            |                               |         |         |           |           | Chèque     |            | Chèque        |        |
+|     68 |            |                               |         |         |           |           | Chiffon    |            | Chef          |        |
+|     69 |            |                               |         |         |           |           |            |            | Chapeau       |        |
+|     70 |            |                               |         |         |           |           | Case       |            | Case          |        |
+|     71 |            |                               |         |         |           |           | Côte       |            | Gîte          |        |
+|     72 |            |                               |         |         |           |           | Cane       |            | Cône          |        |
+|     73 |            |                               |         |         |           |           | Came       |            | Gomme         |        |
+|     74 |            |                               |         |         |           |           | Carie      |            | Car           |        |
+|     75 |            |                               |         |         |           |           | Cale       |            | Colle         |        |
+|--------+------------+-------------------------------+---------+---------+-----------+-----------+------------+------------+---------------+--------|
+|     76 |            |                               |         |         |           |           | Cage       |            | Cage          |        |
+|     77 |            |                               |         |         |           |           | Coq        |            | Coq           |        |
+|     78 |            |                               |         |         |           |           | Café       |            | Café          | Koffie |
+|     79 |            |                               |         |         |           |           | Cap        |            | Cap           |        |
+|     80 |            |                               |         |         |           |           | Fesse      |            | Vase          |        |
+|     81 |            |                               |         |         |           |           | Photo      |            | Fête          |        |
+|     82 |            |                               |         |         |           |           |            |            |               |        |
+|     83 |            |                               |         |         |           |           | Femme      |            | Femme         |        |
+|     84 |            |                               |         |         |           |           |            |            |               |        |
+|     85 |            |                               |         |         |           |           | Fil        |            | Fil           |        |
+|     86 |            |                               |         |         |           |           | Fiche      |            | Fiche         |        |
+|     87 |            |                               |         |         |           |           | Fac        |            | Fac (faculté) |        |
+|     88 |            |                               |         |         |           |           | Fève       |            |               |        |
+|     89 |            |                               |         |         |           |           |            |            |               |        |
+|     90 |            |                               |         |         |           |           | Pisse      |            | Pâle          |        |
+|     91 |            |                               |         |         |           |           | Patte      |            | Pâte          |        |
+|     92 |            |                               | Panne   |         |           |           |            |            |               |        |
+|     93 |            |                               |         |         |           |           | Pomme      |            | Pomme         |        |
+|     94 | Bière      |                               |         |         |           |           |            |            | Pair          |        |
+|     95 |            |                               |         |         |           |           | Poêle      |            | Pile          |        |
+|     96 |            |                               |         |         |           |           | Page       |            | Page          |        |
+|     97 |            |                               |         |         |           |           |            |            | Pique         |        |
+|     98 |            |                               |         |         |           |           |            |            |               |        |
+|     99 |            |                               |         |         |           | Pompier   | Pope       |            | Pape          |        |
+|    100 |            |                               |         |         |           |           |            |            |               |        |
+
+Chaque mot est choisi en fonction de sa facilité à évoquer le nombre tout en
+respectant les correspondances phonétiques du système de Major.
+
+Ces mots sont choisis pour être mémorables et visuels, facilitant la conversion
+des chiffres en images mentales. Vous pouvez personnaliser cette liste en
+fonction de vos propres associations et préférences pour une mémorisation encore
+plus efficace.
+
+*** Propositions de mots mémoire
+
+- 37 mégot
+- 38 mouffle
+- 96. biche - bâche - bêche - bûche - *pêche* - *pioche* - poche
+
+*** Application 2Know
+
+** app-systeme-majeur
+
+Page internet qui permet de donner toutes les combinaisons de mots qui peuvent
+se rapporter à une suite de chiffres. L'avantage est que l'on ne dépend pas de
+la plateforme, elle peut être visitée et utilisée à partir de n'importe quel
+terminal informatique pour peu qu'il dispose d'un navigateur.
+
+Lorsqu'on lui présente un nombre, elle calcule toutes les possibilités de mots
+qui peuvent être trouvés avec la suite de chiffres en question. Ainsi, elle
+affiche les possibilités dans un tableau. Les mots les plus longs sont placés en
+haut du tableau puisque ce sont eux qu'on va choisir préférentiellement, chaque
+ligne est ensuite complétée avec les mots plus petits. On peut ainsi voir les
+possibilités intéressantes de combinaisons de mots. Par ailleurs, la page
+affiche également les mots par type grammatical, car il peut être pratique
+d'enchaîner un nom, un adjectif, un verbe puis finalement un nom pour former une
+phrase syntaxiquement correcte.
+
+https://jytou.fr/majeur/?n=15807020
+
+** Système major
+
+Gaillard : G R = 74
+- Le D final *ne s'entend pas*, il *ne devrait pas se coder*. (Danser = 10, et
+  pas 104)
+- Les LL ne produisent pas le son L(a), mais Y(a). Et le Y n'est pas codé, c'est
+  un son de « remplissage ».
+
+Après, libre à chacun de faire une transcription non *phonétique*, mais,
+d'expérience, c'est beaucoup plus long et moins logique. et ça limite les
+possibilités d'associations.
+
+En savoir plus sur: https://jeretiens.net/systeme-major-de-memorisation/
+
+** Paquets qui permettent d'étudier des flash cards directement dans Emacs
+
+- *org-drill*
+- *org-fc*
+- emacs-flashcards
+- flashcard.el
+
+** Mind maps
+
+- https://app.gitmind.com/
+- https://www.canva.com/
+
+MindMeister
+
+Applics conseillées par des gens lors du certifcat GDPR :
+
+- SimpleMind (facile, export PDF only)
+- Mindjets (super pour travail collaboratif)
+- MindView
+
+Ayoa tutorial:
+https://www.youtube.com/watch?v=Om_J-qIgHpM&feature=youtu.be
+https://support.ayoa.com/support/home
+
+*** Vym - View your mind (mind map tool)
+
+http://sourceforge.net/projects/vym/
+
+*** XMind
+
+https://www.xmind.net/fr/zen/
+
+** TODO Learn to remember (memory)
+
+[[https://www.youtube.com/watch?v=yTQhfSr8b0U][C'est pas sorcier - Peut-on améliorer sa mémoire ? (2012)]]
+
+- [[https://www.youtube.com/watch?v=tCHTMUleciU][Exploits de mémoire que tout le monde peut faire. - Conférence TED de Joshua Foer]]
+  Hooks (Baker/baker paradox), memory palace, spatial, topic by topic.
+- [[https://www.youtube.com/watch?v=zlSj1n9swso][Technique de mémorisation pour mémoriser ses cours]] (techniques de conversion
+  d'informations en images !)
+  Phenomenal memory course + Dominic O'Brien
+
+- http://fr.wikipedia.org/wiki/Mn%C3%A9motechnique
+- http://www.memory-improvement-tips.com/remembering-numbers.html
+- http://www.memoirefacile.com/chiffres-systemes-comment-devenir-un-champion-de-la-memoire-part-3/
+- http://www.memoirefacile.com/methode-de-larmoire-mnemonique/
+
+*** Ron White (champion des USA en 2009 et 2010)
+
+Technique pour retenir 100 prénoms en 15 minutes. Il a une image pour chaque
+nom assez courant, par exemple "Mona Lisa" pour le prénom "Lisa".
+
+Lorsqu'il doit retenir le nom d'une fille qui s'appelle Lisa, il voit qu'elle
+a de beaux yeux qui le frappent. Il retient alors l'image de lui, en train de
+peindre Mona Lisa, dans ses yeux.
+
+Pour retenir 40 prix d'articles quelconques, il utilise les images qu'il a pour
+les nombres. Il a 1000 images. Pour retenir le prix d'une gourde avec un dessin
+de cow-boy à 14,95 EUR, il retient 14 (= canard, chez lui) et 95 (=
+voiture). Donc, il visualise un canard roulant en voiture en train de suivre le
+cow-boy...
+
+Il retient un jeu de 52 cartes en 1 minute 27 secondes. Toutefois, il entraîne
+sa mémoire 8 heures par jour...
+
+*** Sébastien Martinez
+
+"Une mémoire infaillible -- Briller en société sans sortir son smartphone" de
+Sébastien Martinez.
+
+- Connecter l'inconnu au connu, créer des liens, des accroches
+- 2 pistes :
+  + utiliser la logique (interne, propre à soi) et/ou (mieux si c'est les deux)
+  + utiliser l'imagination
+- Quelques méthodes :
+  + Concaténation : "mais où est donc ornicar" (pour les conjonctions de
+    coordination, "HOMES" pour les lacs américains, etc.)
+  + Palais de la mémoire (imaginer des pièces)
+- Réactiver les connaissances après 1 heure, après 1 jour, après 1 semaine, et
+  après 1 mois.
+- Mind maps de Tony Buzan (avec couleurs et dessins imaginés par soi)
+
+** Learn efficiently
+   [2009-10-02 Fri]
+
+From the page [[http://flashqard-project.org/][FlashQard Official Site - Home]]
+
+FlashQard is an educational software to improve your learning process. It is
+designed to help you learn not only a new language but anything that can be
+learnt!
+
+This aim is achieved by using the widely used method, called Leitner System,
+and the idea of "different card types for different purposes".
+
+Leitner System (proposed by Sebastian Leitner in the 1970s) is one the most
+efficient methods for learning. Which allows you to focus on the most
+difficult flashcards and not waste your time on what you have already
+learnt.
