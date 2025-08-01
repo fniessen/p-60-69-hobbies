@@ -1,18 +1,626 @@
 #+TITLE:     Hobbies
 #+AUTHOR:    Fabrice Niessen
-#+EMAIL:     (concat "fniessen" at-sign "pirilampo.org")
+#+EMAIL:     (concat "fni" at-sign "pirilampo.be")
 #+DESCRIPTION:
 #+KEYWORDS:
-#+LANGUAGE:  en
+#+LANGUAGE:  fr
+#+OPTIONS:   H:4 num:t toc:3
 
-#+FILETAGS:  :personal:
+#+FILETAGS:  :personal:leisure:
 #+SETUPFILE: ~/org/theme-readtheorg.setup
+
+# Involves hobbies, entertainment, outings, relaxation and activities that bring
+# joy and relaxation.
 
 * Inbox
 
 ** TODO [#A] Détecter les micro-expressions
 
 https://microexpressionstrainingvideos.com/micro-expressions-training-pricing/
+
+* 61 Photography
+
+** (No Project)
+
+*** TODO Organiser et trier mes photos (également enlever les doublons)
+
+Voir https://progresser-en-informatique.com/classer-et-organiser-ses-photos/ et
+des notes sur certains programmes, dans les commentaires, style :
+- https://www.darktable.org/
+
+**** Exiftool
+
+https://exiftool.org/filename.html#ex6
+
+Recursively rename all images in 'DIR' and any contained subdirectories to the
+form 'image_HHMMSS.EXT' (where 'ext' is the original file extension), and move
+them into a new directory hierarchy based on date of file modification, with
+path names like '2006/03/27/image_105859.jpg'.
+
+**** Rename and de-dupe photos
+
+The second big decision is whether to rename your photos. Since yours come from
+diverse sources, they will have different file names starting with DSC (Nikon),
+IMG (Canon), SAM (Samsung) or whatever. Some people like to rename them all to
+a standard format that starts with a reverse date and a keyword. For example,
+you could rename DSCN0101 to *20080830-London-DSCN0101*. That way, all the files
+will sort easily. You wouldn't want to rename hundreds by hand, but some
+photo management programs provide a renaming option when you import photos. If
+not, you can use a bulk file renamer.
+
+Once you have all your photos in a single directory structure, you can go
+through them and delete the ones you don't want. You can also use a program
+to find any duplicates. There are many options. I use DoubleKiller, which
+matches checksums and sizes. There's also *VisiPics*, a clever program that
+will find duplicates that have different resolutions, or file formats, or are
+
+**** Trouver et appliquer un bon système de tagging des photos
+
+Moi, ce que je fais, c'est tagger les photos avec Bridge, vu que c'est
+mille fois mieux.
+
+Et après le tagging:
+1. je mets un code de couleur aux photos que je veux uploader
+2. je filtre pour ne voir que ces photos-là et je les sélectionne toutes
+3. clique droit et "copy to..." le répertoire que tu veux
+4. avec Picasa, j'uploade tout le contenu de ce nouveau répertoire
+5. j'efface la copie et je continue à gérer tout uniquement avec Bridge
+
+*** TODO Acheter poster avec photo "homme mains terre plante"
+
+* Reading
+
+** (No Project)
+
+*** Livres conseillés par Christian Janfils
+
+- "Mind Fuck"
+- Steve Banon, main invisible
+
+*** 800 - Reading List
+
+[[https://www.youtube.com/watch?v=2UPVgU5mOR4][TOP 5 Livres à lire pour bien démarrer un business]] :
+
+- La Semaine de 4 Heures - Timothy Ferriss
+- The ONE Thing - Gary Keller
+- Réfléchissez et Devenez Riche - Napoleon Hill
+- L'Effet Cumulé - Darren Hardy
+- La Loi Pareto - Antoine Delers
+
+*** Books
+
+- Comment partager le plaisir fou de lire tout autour de soi ! - Alexandre
+  Jardin
+- La bête à bon Dieu - Pascal Jardin
+- Le Nain jaune - Pascal Jardin
+- Le zèbre - Alexandre Jardin
+
+- Livre Les petits farceurs - Louis-Henri de La Rochefoucauld
+- *Traité du funambulisme de Philippe Petit*
+
+- Bien sûr que les poissons ont froid -- Fanny Ruwet
+- La tyrannie du divertissement -- Olivier Babeau
+
+Books That Change Your Thinking: 15 Books on 15 Different Topics:
+https://www.thezag.com/books-that-change-your-thinking/
+
+*** Reading List
+
+- [ ] Jeanne Siaud Facchin, Trop intelligent pour être heureux
+- [ ] L'enfant surdoué, éducation
+
+*** À lire ?
+
+- La difficulté d'être - récit autobiographique de Jean Cocteau
+- N'abandonnez jamais, ne renoncez à rien - Francis Huster
+- On ne meurt pas d'amour - éditions Plomb
+- Les vertus de l'échec - Pépin Charles ?
+- Valmont - Liaisons dangereuses ?
+- La soustraction des possibles - Joseph Incardona (Roman)
+
+- Hack ton cerveau... Et celui des autres !
+
+*** The secret
+
+- Having It All: Achieving Your Life's Goals and Dreams (by John Assaraf)
+- Innercise: The New Science to Unlock Your Brain's Hidden Power
+
+*** Top 5 books for priority setting
+
+1. "The 7 Habits of Highly Effective People: Powerful Lessons in Personal
+   Change" by Stephen R. Covey
+
+2. "How to Stop Procrastinating: A Simple Guide to Mastering Difficult Tasks and
+   Breaking the Procrastination Habit" by S.J. Scott
+
+3. "Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in
+   Less Time" by Brian Tracy
+
+4. "The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich"
+
+5. "Organize Tomorrow Today: 8 Ways to Retrain Your Mind to Optimize Performance
+   at Work and in Life" by Dr. Jason Selk and Tom Bartow
+
+https://mentormitrblogs.medium.com/top-5-books-for-priority-setting-3359d1166c5
+
+*** 610 ou 641 - L'alimentation ou la troisième médecine - Dr Jean Seignalet
+
+*** Acheter "Le miracle de la détoxination" - Morse, Robert S.
+
+*** TODO Acheter "The Power of Now" by Eckhart Tolle
+
+*** King, Warrior, Magician, Lover - Robert Moore (from Roberto)
+
+*** Quand Je Serai Seul Avec La Mer, par Dominique Guyaux
+
+*** Dictionnaire amoureux des mathématiques (André Deledicq, Mickaël Launay)
+
+*** Computer books
+
+A good book to look at when starting in data science is *An Introduction to
+Statistical Learning: With Applications in R*. This was a great read and very
+helpful when I was starting out. I still keep a copy at work as a reference for
+when I am working on something.
+
+If you are looking for another good read that is more software focused, *Clean
+Code* by Robert Cecil Martin is a great book focused on how to write well
+structured code that is easy to read. The book focuses on Java to teach the
+skills but I apply the same concepts to Python.
+
+*** Herman Hesse - Siddartha (offert à 14 ans)
+
+*** La vie sexuelle des aventuriers
+
+*** Au nom des requins, François Sarano
+
+Chouette auteur qui parle de l'altérité entre requins et humains...
+
+*** How to solve it
+
+Sur la résolution de problèmes -- excellent pour un développeur.
+
+*** Presentation Patterns
+
+http://www.amazon.com/Presentation-Patterns-Techniques-Crafting-Presentations/dp/0321820800/
+
+*** Non-programming books that will make you a better programmer
+
+https://dev.to/lifelongthinker/name-a-non-programming-book-that-will-make-you-a-better-programmer-238k
+
+*** Livres de Christopher Lasch, sociologue américain
+
+Sur les riches et sur les pauvres
+
+*** Acheter livres sur le mental
+
+- Livres mémoires de Dominic O'Brien
+
+https://highexistence.com/25-psychology-books-from-derren-brown-you-must-read-before-you-die/
+On Understanding Body Language
+1. What Every BODY is Saying: An Ex-FBI Agent's Guide to Speed-Reading People -- Joe Navarro
+2. Emotions Revealed -- Paul Ekman
+3. Blink: The Power of Thinking without Thinking -- Malcolm Gladwell
+4. The Book of Tells: How to Read People's Minds by Their Actions -- Peter Collett
+5. The Truth About Lying -- Stan B. Walters
+
+On Cultivating Influence & Charisma
+6. Brainwashing: The Science of Thought Control -- Kathleen Taylor
+7. Influence: The Psychology of Persuasion -- Robert B. Cialdini, Ph.D.
+8. The Right Way to Do Wrong: An Expose of Successful Criminals -- Harry Houdini
+9. Persuasion Engineering -- Richard Bandler and John Lavalle
+10. The Oxford Handbook of Hypnosis: Theory, Research, and Practice
+
+On Rational Thinking
+11. The God Delusion -- Richard Dawkins
+12. Irrationality -- Stuart Sutherland
+13. Paranormality: Why We See What Isn't There -- Richard Wiseman
+14. Trick or Treatment: The Undeniable Facts About Alternative Medicine -- Simon Singh and Edzard Erst
+15. Voodoo Histories: The Role of the Conspiracy Theory in Shaping Modern History -- David Aaronovitch
+
+On Hacking Your Brain
+16. Brain Rules: 12 Principles for Surviving and Thriving at Work, Home, and School - John Medina
+17. Mind Hacks: Tips & Tricks for Using Your Brain -- Matt Webb and Tom Stafford
+18. Upgrade Your Life: The Lifehacker Guide to Working Smarter, Faster, Better -- Gina Trapani
+19. Tricks of the Mind -- Derren Brown
+20. How to Develop a Super Power Memory -- Harry Lorayne
+
+On Mastering Human Nature
+21. Opening Skinner's Box: Great Psychological Experiments of the Twentieth Century -- Lauren Slater
+22. On Intelligence -- Jeff Hawkins
+23. The Seven Sins of Memory: How the Mind Forgets and Remembers -- Daniel Schacter
+24. The Individual in a Social World: Essays and Experiments -- Stanley Milgram
+25. The Conscious Mind: In Search of a Fundamental Theory -- David Chalmers
+
+**** 152 - Ces gestes qui vous trahissent (de Joseph Messinger)
+
+Très intéressant, très fourni.
+
+**** 152 - Je sais que vous mentez ! (de Paul Ekman)
+
+L'art de détecter les menteurs et les manipulateurs.
+Techniques extrêmement intéressantes, incontournables.
+
+**** Cerveau extraordinaire (de Fabien Olicard)
+
+**** La magie du Corps (de John Fisher)
+
+**** Comment se faire des amis (de Dale Carnegie)
+
+**** Les cinq blessures qui empêchent d'être soi-même (de Lise Bourbeau)
+
+*** Books for Fabrice
+
+Smart Simplicity - Six règles pour gérer la complexité sans devenir compliqué.
+
+http://blog.desktime.com/2016/11/30/must-read-books-that-boost-productivity/
+
+Must-Read Books that Boost Productivity
+
+On Working Smarter
+1. The 4-Hour Workweek, Tim Feriss
+2. Eat That Frog, Brian Tracy
+3. Getting Things Done, David Allen
+4. The 7 Habits of Highly Effective People, Steven R. Covey
+5. The Power of Habit, Charles Duhigg
+6. Manage your Day-to-Day, Jocelyn K. Glei
+
+On Working from Home
+7. Remote, Jason Fried and David Heinemeier Hansson
+8. The Year Without Pants, Scott Berkun
+
+On a Productive Lifestyle
+9. The Sleep Revolution, Arianna Huffington
+10. Mindfulness: a Practical Guide to Finding Peace in a Frantic World, Mark Williams and Danny Penman
+
+On Changing Your Mindset
+11. Emotional Intelligence: Why It Can Matter More than IQ, Daniel Goleman
+12. Presence, Amy Cuddy
+13. The Happiness Advantage, Shawn Anchor
+
+On Achieving Success
+14. How to Win Friends & Influence People, Dale Carnegie
+15. Mindset: the New Psychology of Success, Carol Dweck
+
+On Leadership
+16. Tribal Leadership, Dave Logan, John King, Halee Fischer-Wright
+17. Leaders Eat Last, Simon Sinek
+
+On Creativity
+18. Creative Confidence, Tom Kelley & David Kelley
+19. Creativity, Inc., Ed Catmull
+
+*** Livres sur la loi de l'attraction
+
+- *La loi de l'attraction* (Esther Hicks, Jerry Hicks)
+- La loi d'attraction (Sylvie Liger)
+- *Loi de l'attraction* (Slavica Bogdanov)
+- La clé pour vivre selon la loi de l'attraction (Jack Canfield)
+- 50 exercices pour pratiquer la loi d'attraction (Virgile Stanislas Martin)
+
+[[https://www.youtube.com/watch?v=KjRnZvSAf64][Comment La Conscience Crée La Réalité ? (Physique Quantique Explication Complète)]]
+
+*** Livre "Cohérence cardiaque 3-6-5"
+
+**** Books (from Mike DDP)
+
+1. Trop Gentil Pour Être Heureux - Robert Glover
+
+   Sans doute celui qui m'a le plus retourné le cerveau...
+   ... et qui a définitivement tué le "nice guy" qui restait en moi.
+   Un indispensable si t'en as marre d'être trop gentil.
+
+2. The Way Of The Superior Man - David Deida
+
+   Un guide pour libérer ton potentiel masculin dans ta vie de tous les jours...
+   ... mais AUSSI et surtout avec les femmes !
+   (oui... l'un ne va pas sans l'autre)
+
+3. 12 Rules For Life - Jordan B Peterson
+
+   Pas un livre de séduction en soi...
+   Mais si ta vie ressemble à un chaos complet ?
+   Tes chances de séduire une nana de qualité sont divisées par 1000.
+   Si c'est ton cas, fais-toi une faveur et lis-le.
+
+*** Démo Calibre eBooks
+[2011-07-27 Wed 06:15]
+
+#+begin_verse
+Jette un œil sur la démo, ça vaut la peine :
+
+http://calibre-ebook.com/demo
+
+(Je te conseille de voir tout, mais si t'es vraiment surchargé et n'as pas
+le temps, commence à la 6e minute pour voir au moins la partie sur les
+journaux.)
+#+end_verse
+
+* Sports
+
+** Biking
+
+*** NEXT Enregistrer mon vélo sur Orba
+
+*** TODO Bike onderhoud
+SCHEDULED: <2025-09-08 Mon -3w +6m> DEADLINE: <2025-09-21 Sun -3w +6m>
+
+*** Quels pneus pour un vélo : tubeless ou non, et quelle largeur ?
+
+**** Réponse de John
+
+Il me semble que la tendance va vers des pneus plus larges et en tubeless.
+
+**** Réponse de Jérôme
+
+J’ai des *tubeless* sur mon madone depuis plus de 4 ans. Je trouve ça super. Faut
+juste remettre du liquide une fois tous les 2 mois et à chaque petite crevaison.
+
+Si la fuite est petite, le produit bouche le trou très rapidement. Si perdu trop
+d’air, un petit coup de pompe.
+
+Il faut qd même mieux avoir une chambre à air pour si tu as une trop grosse
+crevaison. A ce moment là tu peux mettre une chambre à air dans le pneu.
+
+En 4 and ça m’est arrivé qu’une seule fois.
+
+Mes roues sur l’émonda ne sont pas tubeless et je le regrette (j’avais aussi des
+tubeless sur ce vélo mais faute de jantes disponibles qd j’ai du les remplacer
+je suis revenu aux pneus classiques... grosse erreur pour ma part).
+
+**** Réponse de Guy
+
+Bij ons in de ploeg rijden er sommige met *32mm* en zijn daar heel tevreden
+over. 32mm zou meer comfort geven. Persoonlijk zou ik *niet-tubeless* nemen,
+gemakkelijker te vervangen bij plat rijden denk ik.
+
+**** Réponse de Jonas
+
+*32mm* zal meer comfort geven aangezien je een lagere druk kan zetten, idem voor
+*tubeless*. Het is alleen een beetje meer werk qua *onderhoud*.
+
+Ikzelf heb al 3 jaar geen lekke band meer gehad sinds tubeless dus ik kan het
+alleen maar aanraden.
+
+Onderhoud: nieuwe melk toevoegen elke 3 maanden en vanbinnen wat schoonmaken.
+
+*** DONE Acheter support GSM sur vélo
+
+Support universel pour smartphone : http://getfinn.com/
+
+*** Accessoires pour vélo
+
+Jérôme :
+
+- Vêtement de pluie Castelli++ ou Nalini
+- Garde-boue RoadCatcher II
+- Casque Bontrager Circuit
+
+John :
+
+- GOREWEAR Torrent Veste Homme
+
+*** Sacoche pour ordinateur / sac à dos Willex
+
+** (No Project)
+
+*** MAYB Prendre RDV pour aller faire une session de boxe / Krav maga
+
+- https://kmtc.be/proefles/
+
+*** MAYB Prendre RDV pour western horse riding
+
+*** MAYB Faire du parachutisme
+
+* Movies
+
+** (No Project)
+
+*** Documentaires
+
+- [[https://www.youtube.com/watch?v=jKuWuvqXETc][Fabrice Bonnifet - Concilier le monde des affaires et les limites planétaires]]
+- [[https://www.youtube.com/watch?v=A6ScnBPMNrI][1980 Accident nucléaire en Arkansas]]
+- [[https://www.youtube.com/watch?v=9StQ0YT9zw0][J'irai Rajeunir chez vous - épisode 8 - Le radeau des Cimes]]
+- [[https://www.youtube.com/watch?v=tT0EuyQ9lZs][Can We Decipher The Code In Shakespeare's Writings?]]
+- [[https://www.youtube.com/watch?v=SFdCilK0FrU][Corinne Gouget - "Danger dans nos assiettes, l'interview"]]
+- The great green wall
+
+- 616.89156 Music therapy [[https://www.youtube.com/watch?v=X6W9_HQi-R4][Sapiens, et la musique fut | ARTE]]
+- 616.89156 Music therapy [[https://www.youtube.com/watch?v=lQPwPE567vI][Sisters with Transistors | ARTE]]
+- 572.86 [[https://www.youtube.com/watch?v=fG8Rnd06Tec][Tout ce qu'on ne vous a pas dit sur l'ARN messager ! - Alexandra Henrion Caude]]
+- 612.357 [[https://www.youtube.com/watch?v=QvAY9D3_WTQ][PODCAST | Il était un foie - Dr Réginald Allouche]]
+- 612.357 [[https://www.youtube.com/watch?v=0zl4BStOrzs][Le foie, clé de l'amincissement durable ! - Dr Réginald Allouche]]
+- 793.8 [[https://www.youtube.com/watch?v=r-IVhTwK1QI][Hackez votre cerveau : les secrets d'un mentaliste ! - Charlie Haid]]
+- Headwind 21
+  https://www.youtube.com/watch?v=7RgyLDVlAg4
+- Aquanime (documentaire sur l'eau)
+  https://www.capuseen.com/films/1053-aquanime
+- The need to GROW (https://grow.foodrevolution.org/)
+- Docu "Histoire du trafic de drogue"
+- Docu "La mesure des choses" de Patric Jean
+
+*** Movies
+
+- Imitation game (sur Turing) - Code enigma en FR
+- Papillon
+- The real housewives of Beverly Hills
+- Ray
+- Memento (perte de mémoire)
+- Her
+- Danse avec les loups
+- Big eyes
+- Les films de Cyril Dion s'appellent « Demain » et « Animal ». De quoi
+  bouleverser la Vie !  Et si tu veux te distraire regarde « Felix et sa poule
+  Chépa ». Un écolo rigolo !
+- Final exit (sur la fin de vie et l'euthanasie)
+- Penissimo - Regarder le documentaire complet | ARTE
+  Du dieu Priape à la circoncision, en passant par l'extrême virilité incarnée
+  par Schwarzenegger ou Stallone, un drôle de voyage culturel à travers
+  l'histoire du pénis, invitant à remettre en question la masculinité
+  contemporaine.
+- Mélodie en sous-sol (1963) avec Gabin et Delon
+
+- Mindhunter, unité d'élite du FBI chargée d'analyser l'esprit des tueurs en
+  série et de comprendre leurs motivations.
+- Merli, série espagnole qui suit Merlí Bergeron, un professeur de philosophie
+  non conventionnel, et ses relations avec ses étudiants.
+
+- Imitation game
+- Jack Mimoun et les secrets de Val Verde - Malik Bentalha
+- Revoir Paris (avec Efira et Magimel)
+- La vie et rien d'autre, de Tavernier
+- L'arrosoir
+- Left wing, série sur la politique
+- Malkovich ?
+- Le livre de la jungle ?
+- Amarcor (?) - Fellinias
+- Easy rider
+- La loi du désir - Almadovar
+- Le chat, avec Gabin
+- Odette tout le monde
+- Hors la vie (1991)
+- Les acteurs	Bertrand Blier
+- L'homme à la moto / Agustin Toscano
+- Ressources humaines
+- So long, my son
+- César et Rosalie	Avec Yves Montant (sur le trio amoureux)
+- Oxygen, de Alexandre Aja, avec Melanie Laurent (film stressant, mais bien
+  fait)
+
+**** Sophie Suzanne
+
+1) Gandhi
+2) Himalaya
+3) Kundun
+4) 7 ans au tibet
+5) Le guerrier pacifique
+
+- Films suédois par des femmes
+
+***** TODO Demander à Suzanne nom du film sur Alzeihmer
+
+**** Films à revoir à Noël
+
+- Home for Christmas (2010), film norvégien
+- Love actually
+- L'Étrange Noël de monsieur Jack (The Nightmare Before Christmas), film
+  d'animation
+- Last Christmas
+- La Bûche, film de Danièle Thompson (1999)
+- The Holiday (2006) avec Cameron Diaz
+- E.T.
+- Le Roi et l'Oiseau (1980), film français d'animation
+- Le Noël de Mickey (1983)
+
+**** Warez téléchargement films et séries
+
+Infos de Jérôme Van Lunter et Serge De Metter :
+
+- http://www.emule-island.ru
+- http://www.cpasbien.me
+- http://www.wawa ?
+
+Attention : bandeaux publicitaires, popups, etc. !!!
+
+Le faire d'une machine en DMZ...
+
+Infos de Manuel (help desk Forem) :
+
+- http://www.zone-telechargement.com
+- http://www.unfichier.com
+
+*** TV shows (series)
+
+- The Law According to Lidia Poët (Lidia fait sa loi)
+- Gaslit avec Julia Roberts
+- Rematch (sur le match Kasparov / Big blue)
+- It's a Sin
+- I may destroy you	23 min, incroyable final (12ième épisode)
+- Homeland
+- Downton Abbey
+- Bref (sur Canal+)
+  http://www.canalplus.fr/c-divertissement/pid3848-c-bref.html?vid=510232
+- Vivir sin permiso (Unauthorized Living)
+- The Lincoln Lawyer
+
+*** Séries
+
+- Durrell ou Turrell
+- Des gens biens
+
+Si vous êtes à court d'idées pour les séries, je vous recommande
+- Bibliotekstjuven
+- Den fjärden mannen (basée sur une histoire vraie)
+- Kampen om tungvannet (The saboteurs sur l'affiche, basée sur une histoire
+  vraie pendant la 2ème guerre mondiale)
+- Bl?ögon, série politico-policière (avec la folle-dingue de la 3ème saison de
+  Bron |Broen)
+
+* Outings
+
+** (No Project)
+
+*** 6 restaurants originaux à découvrir à Bruxelles !
+
+- Le plus vegan : Le Tich (Rue de Namur 25 - 1000 Bruxelles)
+- Le plus écoresponsable : Le Local (Rue de la Longue Haie 51 - 1000 Bruxelles)
+- Le plus secret : Le Vertigo (Rue de Rollebeek 7 - 1000 Bruxelles)
+- Le plus aquatique : NEMO 33 (Rue de Stalle 333 - 1180 Bruxelles)
+- Le plus culturel : Cook & Book (Place du Temps Libre 1 - 1200 Bruxelles)
+- Le plus belge des Belges : Le Tram de Boitsfort (Place Andrée
+  Payfa-Fosseprez - 1170 Watermael-Boitsfort)
+
+*** TODO 792 - Aller à Jazz Middelheim (Anvers)
+DEADLINE: <2026-08-12 Wed -3w>
+
+http://www.jazzmiddelheim.be/
+
+*** Spectacles à voir
+:PROPERTIES:
+:ID:       41eb2ac6-806c-42ce-8188-ab32732e0ceb
+:END:
+
+- Vincent Dedienne http://www.vincentdedienne.fr/billetterie/
+- Anne-Sophie Bajon, dite "La Bajon" https://www.labajon.com/
+- Nicolas Meyrieux
+
+Spectacles à Bruxelles :
+https://www.brusselslife.be/fr/agenda/
+
+Spectacles humour :
+https://www.out.be/fr/c/theatre-spectacles/humour-comedie/
+
+Spectacle comique "La Belgique expliquée aux Français".
+
+**** MAYB Réserver ticket pour spectacle [[https://www.lekings.be/event/louis-cattelat-arecibo/][Louis Cattelat]]
+
+**** MAYB Réserver ticket pour spectacle [[https://www.ticketmaster.be/event/elena-nagapetyan-ca-valait-le-coup-billets/64265][Elena Nagapetyan]]
+
+**** TODO Réserver ticket pour spectacle [[https://www.infinitix.be/event/16584/?c=19][Bérengère Krief]] (Wavre)
+SCHEDULED: <2025-05-29 Thu> DEADLINE: <2025-08-29 Fri>
+
+https://www.infinitix.be/event/16584/?c=19
+
+**** MAYB Aller voir le spectacle "L'odeur de la guerre" à la Scala (Paris)
+
+*** 792 - Pièces de théatre
+
+- *Fleur de cactus* (avec Catherine Frot)
+- Momo (avec Muriel Robin et François Berléand)
+- Le syndrome de l'Écossais (avec Bernard Campan et Thierry Lhermitte)
+- L'envers du décor (avec Daniel Auteuil et Valérie Bonneton)
+- Représailles (avec Michel Sardou et Marie-Anne Chazel)
+- Richard III, avec Thomas Jolly
+- Une situation délicate, avec Gérard Darmon
+
+*** MAYB Musée de l'illusion (World Of Mind)
+
+https://museumofillusions.be/
+
+à Tour et Taxis
+
+*** MAYB Route des bières, vins et spiritueux
+
+http://walloniebelgiquetourisme.be/fr-be/3/jaime/wallonie-gourmande/routes-des-bieres-vins-et-spiritueux
 
 * MemoryBoost
 
